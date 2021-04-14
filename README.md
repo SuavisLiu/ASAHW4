@@ -11,3 +11,6 @@ The second method is according to scheme 2 with independent ks described in the 
 
 ## Runge Kutta
 The third method is Runge Kutta. Since we set sigma = 1, the first derivation of sigma vanished. 
+
+## p8
+p8.py contains the code foe problem 8. This partis inspired by Bill and An. The main part of this problem is running out of time.
