@@ -1,6 +1,6 @@
 # ASAHW4
 
-## Intro
+## Introduction
 This homework contains two files for problem 1 and problem 8. prob1.py conations three numerical methods for solving multidimensional SDEs. The high level idea is to creat a 3-dim vector and iterate through Xk. Enventually, the 3-d graph of three component is plotted.
 
 ## Euler Maruyama
